@@ -1,0 +1,58 @@
+{
+  "name": "tanstack-vite",
+  "version": "1.0.0",
+  "description": "My study project for learning vite and tanstack-router",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YukkiMattaru/tanstack-vite.git"
+  },
+  "author": "gaidukov200078@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YukkiMattaru/tanstack-vite/issues"
+  },
+  "homepage": "https://github.com/YukkiMattaru/tanstack-vite#readme",
+  "dependencies": {
+    "@tanstack/react-actions": "^0.0.1-beta.81",
+    "@tanstack/react-loaders": "^0.0.1-beta.81",
+    "@tanstack/react-query": "^4.27.0",
+    "@tanstack/react-router": "^0.0.1-beta.83",
+    "@tanstack/react-router-devtools": "^0.0.1-beta.83",
+    "axios": "^1.3.4",
+    "immer": "^9.0.15",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.7",
+    "zod": "^3.19.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@typescript-eslint/eslint-plugin": "^5.55.0",
+    "@typescript-eslint/parser": "^5.55.0",
+    "@vitejs/plugin-react": "^3.1.0",
+    "@web-bee-ru/eslint-plugin": "^0.6.3",
+    "eslint": "^8.36.0",
+    "eslint-config-prettier": "^8.7.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-import-resolver-node": "^0.3.7",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-unicorn": "^46.0.0",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
+  },
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=18.0.0"
+  },
+  "packageManager": "npm@8.19.3"
+}
